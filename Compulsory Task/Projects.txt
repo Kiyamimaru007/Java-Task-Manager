@@ -1,0 +1,64 @@
+Projects:
+
+Project Number: 1
+Project Name: Building Uno
+Project Type: Building
+Project Physical Address: 31 Royal Street
+Project ERF Number: 41
+Total Fee: 420000
+Total Paid: 1000
+Project Deadline: 21 February 2022
+Architect Name: Kiyam One
+Architect Telephone Number: 11
+Architect Email: one1@gmail.com
+Architect Address: 1 Architect Street
+Contractor Name: Ted One
+Contractor Telephone Number: 111
+Contractor Email: one2@gmail.com
+Contractor Address: 1 Contractor Street
+Customer Name: Zahrah One
+Customer Telephone Number: 1111
+Customer Email: one3@gmail.com
+Customer Address: 1 Customer Street
+
+Project Number: 2
+Project Name: House Dos
+Project Type: House
+Project Physical Address: 32 Royal Street
+Project ERF Number: 42
+Total Fee: 420000
+Total Paid: 2000
+Project Deadline: 22 February 2022
+Architect Name: Kiyam Dos
+Architect Telephone Number: 22
+Architect Email: dos1@gmail.com
+Architect Address: 2 Architect Street
+Contractor Name: Ted Dos
+Contractor Telephone Number: 222
+Contractor Email: dos2@gmail.com
+Contractor Address: 2 Contractor Street
+Customer Name: Zahrah Dos
+Customer Telephone Number: 2222
+Customer Email: dos3@gmail.com
+Customer Address: 2 Customer Street
+
+Project Number: 3
+Project Name: Apartment Tres
+Project Type: Apartment
+Project Physical Address: 33 Royal Street
+Project ERF Number: 43
+Total Fee: 430000
+Total Paid: 3000
+Project Deadline: 23 February 2022
+Architect Name: Kiyam Tres
+Architect Telephone Number: 33
+Architect Email: tres1@gmail.com
+Architect Address: 3 Architect Street
+Contractor Name: Ted Tres
+Contractor Telephone Number: 333
+Contractor Email: tres2@gmail.com
+Contractor Address: 3 Contractor Street
+Customer Name: Zahrah Tres
+Customer Telephone Number: 3333
+Customer Email: tres3@gmail.com
+Customer Address: 3 Customer Street
